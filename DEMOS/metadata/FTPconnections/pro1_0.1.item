@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:FTPConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_28GkIHN2Ee61S6Cr6zuyew" Host="rsrgroup.com" Port="21" Username="52356" Password="enc:system.encryption.key.v1:x33khmhi9aCtRX6J7CnAxa3zyiw+TIcXYeagI2kIlICJ9+5w" Mode="Passive" Ecoding="ISO-8859-15" Method="" KeystoreFile="" KeystorePassword="" Proxyhost="" Proxyport="" Proxyuser="" Proxypassword="" CustomEncode="ISO-8859-15"/>
